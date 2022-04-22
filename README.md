@@ -1,2 +1,2 @@
 # AWS
-AWS certification project
+AWS certification course scripts (Udemy 2022)
